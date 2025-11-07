@@ -1,3 +1,5 @@
+Notebook link - https://colab.research.google.com/drive/1yegBrGI1eAAfReFFJ_4_HHq5XlL190Jo?usp=sharing
+
 # **Executive Summary**
 
 I built a machine learning model to predict whether a breast tumor is **benign or malignant** using the **Breast Cancer Wisconsin dataset**. 
@@ -53,3 +55,5 @@ helping clinicians prioritize high-risk cases and support faster, evidence-based
 - Perform deeper **hyperparameter tuning** (e.g., optimal k-value search) to further improve accuracy.
 - Build a **Streamlit** or **Flask** app to make the model interactive and user-friendly.
 - Explore feature importance / dimensionality reduction (PCA) to simplify the model while maintaining performance.
+
+Notebook link - https://colab.research.google.com/drive/1yegBrGI1eAAfReFFJ_4_HHq5XlL190Jo?usp=sharing
